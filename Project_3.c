@@ -1,10 +1,7 @@
-Project 3 - Trees + Hash
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
 #include<ctype.h>
-//Veronica Ibrahim Wakileh 1220245 section 3
 typedef struct AVLnode * AVLNode;
 struct AVLnode
 {
